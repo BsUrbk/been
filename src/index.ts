@@ -9,11 +9,11 @@ const app = new Application({
 	height: 480
 });
 
-const clampy: Sprite = Sprite.from("clampy.png");
+const been: Sprite = Sprite.from("been.png");
 
-clampy.anchor.set(0.5);
+been.anchor.set(0.5);
 
-clampy.x = app.screen.width / 2;
-clampy.y = app.screen.height / 2;
+been.x = app.screen.width / 2;
+been.y = app.screen.height / 2;
 
-app.stage.addChild(clampy);
+app.stage.addChild(been);
