@@ -1,4 +1,5 @@
-import { Application, Sprite } from 'pixi.js'
+import { Application } from 'pixi.js'
+import { Scene } from './Scene/Player/playerSprite';
 
 const app = new Application({
 	view: document.getElementById("pixi-canvas") as HTMLCanvasElement,
@@ -9,11 +10,6 @@ const app = new Application({
 	height: 480
 });
 
-const been: Sprite = Sprite.from("been.png");
+const scene: Scene = new Scene(app.screen.width, app.screen.height)
 
-been.anchor.set(0.5);
-
-been.x = app.screen.width / 2;
-been.y = app.screen.height / 2;
-
-app.stage.addChild(been);
+app.stage.addChild(scene)
