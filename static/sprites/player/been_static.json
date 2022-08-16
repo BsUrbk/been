@@ -1,0 +1,228 @@
+{
+    "frames": {
+      "been_static0.png": {
+        "frame": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static1.png": {
+        "frame": {
+          "x": 32,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static2.png": {
+        "frame": {
+          "x": 64,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static3.png": {
+        "frame": {
+          "x": 96,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static4.png": {
+        "frame": {
+          "x": 128,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static5.png": {
+        "frame": {
+          "x": 160,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static6.png": {
+        "frame": {
+          "x": 192,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static7.png": {
+        "frame": {
+          "x": 224,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static8.png": {
+        "frame": {
+          "x": 256,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      "been_static9.png": {
+        "frame": {
+          "x": 288,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      }
+    },
+    "animations":{
+        "been_static":[
+            "been_static0.png",
+            "been_static1.png",
+            "been_static2.png",
+            "been_static3.png",
+            "been_static4.png",
+            "been_static5.png",
+            "been_static6.png",
+            "been_static7.png",
+            "been_static8.png",
+            "been_static9.png"
+        ]
+    },
+    "meta": {
+      "app": "https://github.com/piskelapp/piskel/",
+      "version": "1.0",
+      "image": "been_static.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 320,
+        "h": 32
+      }
+    }
+  }

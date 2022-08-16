@@ -1,5 +1,5 @@
 import { Application } from 'pixi.js'
-import { Scene } from './Scene/Player/playerSprite';
+import { Scene } from './Scene/Scene';
 
 const app = new Application({
 	view: document.getElementById("pixi-canvas") as HTMLCanvasElement,
